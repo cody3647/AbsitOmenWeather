@@ -1,0 +1,3 @@
+[submodule "Goutte"]
+	path = Goutte
+	url = git@github:FriendsOfPHP/Goutte.git
